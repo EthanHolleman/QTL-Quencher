@@ -26,3 +26,5 @@ Future Updates
   
   Report file that will contain info on how many genes where matched to each QTL, QTL with most matches, and other 
   similar statistics
+  
+  More flexibilty in file formating overall
